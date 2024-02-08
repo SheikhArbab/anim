@@ -1,0 +1,5 @@
+export { default as Navbar } from './Navbar'
+export { default as LandingSection } from './LandingSection'
+export { default as Marquee } from './Marquee'
+export { default as About } from './About'
+export { default as Footer } from './Footer'
